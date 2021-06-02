@@ -6,7 +6,17 @@ body {
 
 .weather-status h3{
     font-size: 3rem;
-}
+    color: #fefefe;
+}  
 .weather-status h3 span{
-    font-size: 10rem;
+    font-size: 8rem;
+   
+    color: #DC3545;
+
+}
+p{
+    font-size: 12px;
+    color: white;
+    font-weight: 600;
+    color: #bdbdbd;
 }
